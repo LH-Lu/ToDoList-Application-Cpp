@@ -1,0 +1,16 @@
+1. Open file if it exists, else create a new file. Copy all data to memory. Close file. [DONE]
+2. Print list of tasks to console [DONE]
+	If 0 tasks --> special statement printed [DONE]
+3. Asks user for program function
+	Error --> wrong user input [DONE]
+	ADD: Error --> reach max number of tasks [DONE]
+	     Error --> detect error input [N/A]
+		Set priority [DONE]
+	DEL: Error --> no tasks to delete [DONE]
+	     Error --> wrong user input [DONE]
+	EDIT:
+		Set priority [DONE]
+		Set complete [DONE]
+	QUIT: [DONE]
+4. Save memory to file. Close file. [DONE]
+	Throw error if Number of tasks less than 0 [N/A]
