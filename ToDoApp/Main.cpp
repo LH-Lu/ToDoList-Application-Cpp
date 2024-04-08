@@ -4,7 +4,7 @@ int main() {
 	
 	// Const declarations
 	const std::string FileName = "ToDo.txt";
-	const int MaxTasks = 5;
+	const int MaxTasks = 100;
 
 	// Declarations
 	Tasks TaskArray[MaxTasks];
